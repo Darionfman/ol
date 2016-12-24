@@ -1,0 +1,28 @@
+{
+  "name": "ol",
+  "version": "1.0.0",
+  "main": "server/server.js",
+  "repository": {
+    "url": "https://github.com/Darionfman/ol.git",
+    "type": "git"
+  },
+  "author": "Darion Freeman <darionfman@gmail.com>",
+  "license": "MIT",
+  "babel": {
+    "plugins": [
+      "transform-object-rest-spread"
+    ]
+  },
+  "dependencies": {
+    "babel-core": "^6.21.0",
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "morgan": "^1.7.0",
+    "react": "^15.4.1",
+    "react-bootstrap": "^0.30.7",
+    "react-router": "^3.0.0",
+    "webpack": "^1.14.0",
+    "webpack-dev-middleware": "^1.9.0",
+    "webpack-hot-middleware": "^2.14.0"
+  }
+}
