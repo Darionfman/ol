@@ -1,16 +1,15 @@
-const express = require('express')
-const Path = require('path')
-const webpack = require('webpack')
-const config = require('../webpack.config.js')
-const webpackDevMiddleware = require('webpack-dev-middleware')
-const webpackHotMiddleware = require('webpack-hot-middleware')
-const bodyParser = require('body-parser')
-const morgan = require('morgan')
-const router = require('express').Router()
-
-const app = express()
-
-const compiler = webpack(config)
+const express = require('express'),
+      Path = require('path'),
+      webpack = require('webpack'),
+      config = require('../webpack.config.js'),
+      webpackDevMiddleware = require('webpack-dev-middleware'),
+      webpackHotMiddleware = require('webpack-hot-middleware'),
+      bodyParser = require('body-parser'),
+      morgan = require('morgan'),
+      router = require('express').Router(),
+      app = express(),
+      compiler = webpack(config)
+      
 app.use(webpackDevMiddleware(compiler, { noInfo: true, publicPath: config.output.publicPath }))
 app.use(webpackHotMiddleware(compiler))
 const assetFolder = Path.resolve(__dirname, '../public')
