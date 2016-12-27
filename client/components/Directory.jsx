@@ -1,6 +1,7 @@
 import React from 'react'
 import * as bs from 'react-bootstrap'
 import {observer} from 'mobx-react'
+import ListItem from './ListItem'
 import colectionStore from '../store'
 
 @observer
@@ -15,19 +16,19 @@ export default class Directory extends React.Component {
   componentDidMount(){
     colectionStore.fetchFirstPage()
     .then((list) => {
-      console.log(colectionStore.store[0])
       this.setState({loading: false})
     })
   }
 
   render () {
     if(this.loading) return <div> Loading </div>
+
     let list = colectionStore.store
-    let directories = list.map((business) => (<div key={business.id}>{business.name}</div>))
+    let directories = list.map((business) => (<ListItem key={business.id} props={business} />))
     return (
-      <div id='wrapper'>
-      {directories}
-      </div>
+      <bs.Col md={12}>
+        {directories}
+      </bs.Col>
     )
   }
 }
