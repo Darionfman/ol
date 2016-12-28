@@ -1,4 +1,4 @@
-exports[`test Directory renders 1`] = `
+exports[`test Directory renders with correct number of children 1`] = `
 <div
   className="col-md-12">
   <div

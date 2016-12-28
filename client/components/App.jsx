@@ -24,7 +24,7 @@ export default class App extends React.Component {
     return (
       <div id='wrapper'>
         <bs.Nav onMouseOver={this.onHover.bind(this)} onMouseLeave={this.exitHover.bind(this)}>
-          <bs.NavItem href='localhost:4000'> Home </bs.NavItem>
+          <bs.NavItem href='/'> Home </bs.NavItem>
         </bs.Nav>
         <div id='page-content-wrapper' className={this.state.hover}>
           <bs.Grid fluid={true}>

@@ -8,6 +8,7 @@ import Business from './components/Business'
 import store from './store'
 require('./css/directory.css')
 require('./css/business.css')
+require('./css/app.css')
 
 
 render(

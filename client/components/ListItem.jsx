@@ -5,7 +5,7 @@ import {Link} from 'react-router'
 
 const ListItem = ({business, props}) => (
   <bs.Col md={12}>
-    <Link to={`#/business/${business.id}`}>
+    <Link to={`/business/${business.id}`}>
       <bs.Col md={2}>
         Ol
       </bs.Col>
