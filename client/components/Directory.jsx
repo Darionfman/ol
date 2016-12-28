@@ -16,7 +16,7 @@ export default class Directory extends React.Component {
 
   render () {
     let list = colectionStore.store
-    if(list.length) return <div> Loading </div>
+    if(!list.length) return <div> Loading </div>
 
     let directories = list.map((business) => (<ListItem key={business.id} business={business} />))
     return (
