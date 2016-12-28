@@ -8,22 +8,16 @@ import colectionStore from '../store'
 export default class Directory extends React.Component {
   constructor (props) {
     super(props)
-    this.state = {
-      loading: true
-    }
   }
 
   componentDidMount(){
     colectionStore.fetchFirstPage()
-    .then((list) => {
-      this.setState({loading: false})
-    })
   }
 
   render () {
-    if(this.loading) return <div> Loading </div>
-
     let list = colectionStore.store
+    if(list.length) return <div> Loading </div>
+
     let directories = list.map((business) => (<ListItem key={business.id} business={business} />))
     return (
       <bs.Col md={12}>

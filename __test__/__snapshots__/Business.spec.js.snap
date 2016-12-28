@@ -1,0 +1,5 @@
+exports[`test Business renders 1`] = `
+<div>
+   It worked 
+</div>
+`;
