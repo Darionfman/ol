@@ -1,11 +1,22 @@
 import Store from '../client/store'
 
-test('Recieves a list of businesses', async function(){
+test('Recieves a list of businesses', async () => {
   const fetch = await Store.fetchFirstPage()
   expect(fetch.length).toEqual(50)
+  expect(fetch[0]['id']).toBe(0)
 })
 
-test('The first list items id should be 0', async function(){
+test('Next and previous to be strings', async () => {
   const fetch = await Store.fetchFirstPage()
-  expect(fetch[0]['id']).toBe(0)
+  expect(typeof Store.next).toEqual('string')
+  expect(typeof Store.previous).toEqual('string')
+  expect(Store.next).toBe('http://ec2-54-84-251-148.compute-1.amazonaws.com/businesses?page=2')
+})
+test('Should be able to fetch different pages', async () => {
+  await Store.fetchFirstPage()
+  const fetch = await Store.fetchPage(Store.next)
+  expect(fetch.length).toEqual(50)
+  expect(fetch[0]['id']).toBe(50)
+  expect(Store.previous).toBe('http://ec2-54-84-251-148.compute-1.amazonaws.com/businesses?page=1')
+  expect(Store.next).toBe('http://ec2-54-84-251-148.compute-1.amazonaws.com/businesses?page=3')
 })
