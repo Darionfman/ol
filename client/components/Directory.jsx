@@ -24,7 +24,7 @@ export default class Directory extends React.Component {
     if(this.loading) return <div> Loading </div>
 
     let list = colectionStore.store
-    let directories = list.map((business) => (<ListItem key={business.id} props={business} />))
+    let directories = list.map((business) => (<ListItem key={business.id} business={business} />))
     return (
       <bs.Col md={12}>
         {directories}

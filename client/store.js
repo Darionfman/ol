@@ -6,11 +6,13 @@ class CollectionStore {
   @observable store = []
   @observable next = ''
   @observable previous = ''
+  @observable business = null
 
   constructor(){
     this.store 
     this.next
     this.previous
+    this.business
   }
 
   @action fetchFirstPage(){
@@ -30,6 +32,13 @@ class CollectionStore {
       this.next = collection.data['pages']['next']
       this.previous = collection.data['pages']['prev'] || ''
       return this.store
+    }))
+  }
+  @action getBusiness(id){
+    return axios.get(`http://ec2-54-84-251-148.compute-1.amazonaws.com/businesses/${id}`)
+    .then(action((business) => {
+      this.business = business.data
+      return this.business
     }))
   }
 

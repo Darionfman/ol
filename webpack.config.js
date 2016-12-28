@@ -28,16 +28,8 @@ const common = {
         }
       },
       {
-        test: /\.json$/,
-        loader: 'json-loader'
-      },
-      {
         test: /\.css$/,
         loader: ExtractTextPlugin.extract('style-loader', 'css-loader')
-      },
-      {
-        test: /\.png$/,
-        loader: 'file-loader'
       }
     ]
   },
@@ -61,20 +53,6 @@ const devConfig = {
 
 const prodConfig = {
   devtool: 'source-maps',
-  // plugins: [
-  //   new webpack.optimize.UglifyJsPlugin({
-  //     beautify: false,
-  //     comments: false,
-  //     compress: {
-  //       warnings: false
-  //     },
-  //     mangle: {
-  //       except: ['$'],
-  //       screw_ie8: true,
-  //       keep_fnames: true
-  //     }
-  //   })
-  // ]
 }
 
 const target = process.env.npm_lifecycle_event
