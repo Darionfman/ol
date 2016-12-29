@@ -23,7 +23,7 @@ test('Directory renders with correct number of children', async () => {
   expect(tree).toMatchSnapshot()
 })
 test('Directory renders with correct number of children with different page number', async () => {
-  await Store.fetchPage('http://ec2-54-84-251-148.compute-1.amazonaws.com/businesses/3')
+  await Store.fetchPage('http://ec2-54-84-251-148.compute-1.amazonaws.com/businesses?page=2')
   
   const component = renderer.create(
     <Directory />
