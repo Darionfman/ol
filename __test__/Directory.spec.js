@@ -4,8 +4,11 @@ import Store from '../client/store'
 import renderer from 'react-test-renderer'
 
 test('Directory renders with correct number of children', async () => {
-  await Store.fetchFirstPage()
-  
+  try{
+    await Store.fetchFirstPage()
+  } catch(e) {
+    throw e
+  }
   const component = renderer.create(
     <Directory />
   )
