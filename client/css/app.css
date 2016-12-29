@@ -1,3 +1,13 @@
 .center {
   text-align: center;
 }
+.phone-number{
+  pointer-events: none;
+  color:inherit;
+}
+@media (max-width: 767px) {
+  .phone-number{
+    pointer-events: inherit;
+    color:#337ab7;
+  }
+}

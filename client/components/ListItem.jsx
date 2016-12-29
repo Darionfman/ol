@@ -14,12 +14,12 @@ const ListItem = ({business, props}) => (
       </bs.Col>
     </Link>
     <bs.Col md={4}>
-      <a href={business.website}>
+      <a href={business.website} target="_blank">
         {business.website}
       </a>
     </bs.Col>
     <bs.Col className='grey' md={3}>
-      <a href={`tel:${business.phone}`}>
+      <a className='phone-number' href={`tel:${business.phone}`}>
         {business.phone}
       </a>
     </bs.Col>

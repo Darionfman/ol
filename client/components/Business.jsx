@@ -20,7 +20,7 @@ export default class Business extends React.Component {
       <bs.Col md={12} className='center'> 
         <h2>{businessData.name}</h2>
         <bs.Col md={12}>
-          <a href={`tel:${businessData.phone}`}>
+          <a className='phone-number' href={`tel:${businessData.phone}`}>
             {businessData.phone}
           </a>
         </bs.Col>
