@@ -26,6 +26,7 @@ class CollectionStore {
     }))
   }
   @action fetchPage(link){
+    if(!link) throw new Error('No link was submitted')
     return axios.get(link)
     .then(action((collection) => {
       this.store = collection.data['businesses'] 

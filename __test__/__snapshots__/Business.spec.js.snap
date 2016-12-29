@@ -7,6 +7,7 @@ exports[`test Business renders 1`] = `
   <div
     className="col-md-12">
     <a
+      className="phone-number"
       href="tel:4034880719">
       4034880719
     </a>

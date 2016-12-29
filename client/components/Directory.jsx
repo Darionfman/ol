@@ -15,7 +15,7 @@ export default class Directory extends React.Component {
   }
 
   fetch(link){
-    colectionStore.fetchPage(link)
+    if(!!link) colectionStore.fetchPage(link)
   }
 
   render () {

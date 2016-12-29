@@ -43,13 +43,15 @@ exports[`test Directory renders with correct number of children 1`] = `
       <div
         className="col-md-4">
         <a
-          href="http://www.halvorson.com/">
+          href="http://www.halvorson.com/"
+          target="_blank">
           http://www.halvorson.com/
         </a>
       </div>
       <div
         className="grey col-md-3">
         <a
+          className="phone-number"
           href="tel:4034880719">
           4034880719
         </a>
@@ -72,13 +74,15 @@ exports[`test Directory renders with correct number of children 1`] = `
       <div
         className="col-md-4">
         <a
-          href="http://bergstrom.org/">
+          href="http://bergstrom.org/"
+          target="_blank">
           http://bergstrom.org/
         </a>
       </div>
       <div
         className="grey col-md-3">
         <a
+          className="phone-number"
           href="tel:2462288476">
           2462288476
         </a>
@@ -101,13 +105,15 @@ exports[`test Directory renders with correct number of children 1`] = `
       <div
         className="col-md-4">
         <a
-          href="http://schmitt.net/">
+          href="http://schmitt.net/"
+          target="_blank">
           http://schmitt.net/
         </a>
       </div>
       <div
         className="grey col-md-3">
         <a
+          className="phone-number"
           href="tel:1788019885">
           1788019885
         </a>
@@ -130,13 +136,15 @@ exports[`test Directory renders with correct number of children 1`] = `
       <div
         className="col-md-4">
         <a
-          href="http://okeefe.info/">
+          href="http://okeefe.info/"
+          target="_blank">
           http://okeefe.info/
         </a>
       </div>
       <div
         className="grey col-md-3">
         <a
+          className="phone-number"
           href="tel:4442359224">
           4442359224
         </a>
@@ -159,13 +167,15 @@ exports[`test Directory renders with correct number of children 1`] = `
       <div
         className="col-md-4">
         <a
-          href="http://schumm.com/">
+          href="http://schumm.com/"
+          target="_blank">
           http://schumm.com/
         </a>
       </div>
       <div
         className="grey col-md-3">
         <a
+          className="phone-number"
           href="tel:7106578275">
           7106578275
         </a>
@@ -188,13 +198,15 @@ exports[`test Directory renders with correct number of children 1`] = `
       <div
         className="col-md-4">
         <a
-          href="http://www.schiller-bartell.net/">
+          href="http://www.schiller-bartell.net/"
+          target="_blank">
           http://www.schiller-bartell.net/
         </a>
       </div>
       <div
         className="grey col-md-3">
         <a
+          className="phone-number"
           href="tel:5491562078">
           5491562078
         </a>
@@ -217,13 +229,15 @@ exports[`test Directory renders with correct number of children 1`] = `
       <div
         className="col-md-4">
         <a
-          href="http://www.schmeler.com/">
+          href="http://www.schmeler.com/"
+          target="_blank">
           http://www.schmeler.com/
         </a>
       </div>
       <div
         className="grey col-md-3">
         <a
+          className="phone-number"
           href="tel:6068112791">
           6068112791
         </a>
@@ -246,13 +260,15 @@ exports[`test Directory renders with correct number of children 1`] = `
       <div
         className="col-md-4">
         <a
-          href="http://www.cartwright-white.com/">
+          href="http://www.cartwright-white.com/"
+          target="_blank">
           http://www.cartwright-white.com/
         </a>
       </div>
       <div
         className="grey col-md-3">
         <a
+          className="phone-number"
           href="tel:1516769808">
           1516769808
         </a>
@@ -275,13 +291,15 @@ exports[`test Directory renders with correct number of children 1`] = `
       <div
         className="col-md-4">
         <a
-          href="http://www.schaefer.com/">
+          href="http://www.schaefer.com/"
+          target="_blank">
           http://www.schaefer.com/
         </a>
       </div>
       <div
         className="grey col-md-3">
         <a
+          className="phone-number"
           href="tel:8827125278">
           8827125278
         </a>
@@ -304,13 +322,15 @@ exports[`test Directory renders with correct number of children 1`] = `
       <div
         className="col-md-4">
         <a
-          href="http://legros.org/">
+          href="http://legros.org/"
+          target="_blank">
           http://legros.org/
         </a>
       </div>
       <div
         className="grey col-md-3">
         <a
+          className="phone-number"
           href="tel:7888247882">
           7888247882
         </a>
@@ -333,13 +353,15 @@ exports[`test Directory renders with correct number of children 1`] = `
       <div
         className="col-md-4">
         <a
-          href="http://www.windler.info/">
+          href="http://www.windler.info/"
+          target="_blank">
           http://www.windler.info/
         </a>
       </div>
       <div
         className="grey col-md-3">
         <a
+          className="phone-number"
           href="tel:1366898018">
           1366898018
         </a>
@@ -362,13 +384,15 @@ exports[`test Directory renders with correct number of children 1`] = `
       <div
         className="col-md-4">
         <a
-          href="http://collins.biz/">
+          href="http://collins.biz/"
+          target="_blank">
           http://collins.biz/
         </a>
       </div>
       <div
         className="grey col-md-3">
         <a
+          className="phone-number"
           href="tel:5858963747">
           5858963747
         </a>
@@ -391,13 +415,15 @@ exports[`test Directory renders with correct number of children 1`] = `
       <div
         className="col-md-4">
         <a
-          href="http://upton.com/">
+          href="http://upton.com/"
+          target="_blank">
           http://upton.com/
         </a>
       </div>
       <div
         className="grey col-md-3">
         <a
+          className="phone-number"
           href="tel:6793339715">
           6793339715
         </a>
@@ -420,13 +446,15 @@ exports[`test Directory renders with correct number of children 1`] = `
       <div
         className="col-md-4">
         <a
-          href="http://www.kertzmann.com/">
+          href="http://www.kertzmann.com/"
+          target="_blank">
           http://www.kertzmann.com/
         </a>
       </div>
       <div
         className="grey col-md-3">
         <a
+          className="phone-number"
           href="tel:4778921820">
           4778921820
         </a>
@@ -449,13 +477,15 @@ exports[`test Directory renders with correct number of children 1`] = `
       <div
         className="col-md-4">
         <a
-          href="http://www.collier.net/">
+          href="http://www.collier.net/"
+          target="_blank">
           http://www.collier.net/
         </a>
       </div>
       <div
         className="grey col-md-3">
         <a
+          className="phone-number"
           href="tel:4257221865">
           4257221865
         </a>
@@ -478,13 +508,15 @@ exports[`test Directory renders with correct number of children 1`] = `
       <div
         className="col-md-4">
         <a
-          href="http://www.rosenbaum-gerhold.com/">
+          href="http://www.rosenbaum-gerhold.com/"
+          target="_blank">
           http://www.rosenbaum-gerhold.com/
         </a>
       </div>
       <div
         className="grey col-md-3">
         <a
+          className="phone-number"
           href="tel:2250907292">
           2250907292
         </a>
@@ -507,13 +539,15 @@ exports[`test Directory renders with correct number of children 1`] = `
       <div
         className="col-md-4">
         <a
-          href="http://www.gleichner-fay.com/">
+          href="http://www.gleichner-fay.com/"
+          target="_blank">
           http://www.gleichner-fay.com/
         </a>
       </div>
       <div
         className="grey col-md-3">
         <a
+          className="phone-number"
           href="tel:4874514201">
           4874514201
         </a>
@@ -536,13 +570,15 @@ exports[`test Directory renders with correct number of children 1`] = `
       <div
         className="col-md-4">
         <a
-          href="http://ortiz.net/">
+          href="http://ortiz.net/"
+          target="_blank">
           http://ortiz.net/
         </a>
       </div>
       <div
         className="grey col-md-3">
         <a
+          className="phone-number"
           href="tel:4634023657">
           4634023657
         </a>
@@ -565,13 +601,15 @@ exports[`test Directory renders with correct number of children 1`] = `
       <div
         className="col-md-4">
         <a
-          href="http://jacobs.com/">
+          href="http://jacobs.com/"
+          target="_blank">
           http://jacobs.com/
         </a>
       </div>
       <div
         className="grey col-md-3">
         <a
+          className="phone-number"
           href="tel:6045870402">
           6045870402
         </a>
@@ -594,13 +632,15 @@ exports[`test Directory renders with correct number of children 1`] = `
       <div
         className="col-md-4">
         <a
-          href="http://www.botsford.com/">
+          href="http://www.botsford.com/"
+          target="_blank">
           http://www.botsford.com/
         </a>
       </div>
       <div
         className="grey col-md-3">
         <a
+          className="phone-number"
           href="tel:5962018046">
           5962018046
         </a>
@@ -623,13 +663,15 @@ exports[`test Directory renders with correct number of children 1`] = `
       <div
         className="col-md-4">
         <a
-          href="http://www.weissnat.com/">
+          href="http://www.weissnat.com/"
+          target="_blank">
           http://www.weissnat.com/
         </a>
       </div>
       <div
         className="grey col-md-3">
         <a
+          className="phone-number"
           href="tel:2070582456">
           2070582456
         </a>
@@ -652,13 +694,15 @@ exports[`test Directory renders with correct number of children 1`] = `
       <div
         className="col-md-4">
         <a
-          href="http://www.goldner.com/">
+          href="http://www.goldner.com/"
+          target="_blank">
           http://www.goldner.com/
         </a>
       </div>
       <div
         className="grey col-md-3">
         <a
+          className="phone-number"
           href="tel:4197749267">
           4197749267
         </a>
@@ -681,13 +725,15 @@ exports[`test Directory renders with correct number of children 1`] = `
       <div
         className="col-md-4">
         <a
-          href="http://west.net/">
+          href="http://west.net/"
+          target="_blank">
           http://west.net/
         </a>
       </div>
       <div
         className="grey col-md-3">
         <a
+          className="phone-number"
           href="tel:5138313444">
           5138313444
         </a>
@@ -710,13 +756,15 @@ exports[`test Directory renders with correct number of children 1`] = `
       <div
         className="col-md-4">
         <a
-          href="http://cormier.com/">
+          href="http://cormier.com/"
+          target="_blank">
           http://cormier.com/
         </a>
       </div>
       <div
         className="grey col-md-3">
         <a
+          className="phone-number"
           href="tel:8544861760">
           8544861760
         </a>
@@ -739,13 +787,15 @@ exports[`test Directory renders with correct number of children 1`] = `
       <div
         className="col-md-4">
         <a
-          href="http://www.ziemann.com/">
+          href="http://www.ziemann.com/"
+          target="_blank">
           http://www.ziemann.com/
         </a>
       </div>
       <div
         className="grey col-md-3">
         <a
+          className="phone-number"
           href="tel:9150464732">
           9150464732
         </a>
@@ -768,13 +818,15 @@ exports[`test Directory renders with correct number of children 1`] = `
       <div
         className="col-md-4">
         <a
-          href="http://www.okon.com/">
+          href="http://www.okon.com/"
+          target="_blank">
           http://www.okon.com/
         </a>
       </div>
       <div
         className="grey col-md-3">
         <a
+          className="phone-number"
           href="tel:8450811011">
           8450811011
         </a>
@@ -797,13 +849,15 @@ exports[`test Directory renders with correct number of children 1`] = `
       <div
         className="col-md-4">
         <a
-          href="http://farrell-hettinger.info/">
+          href="http://farrell-hettinger.info/"
+          target="_blank">
           http://farrell-hettinger.info/
         </a>
       </div>
       <div
         className="grey col-md-3">
         <a
+          className="phone-number"
           href="tel:6835570001">
           6835570001
         </a>
@@ -826,13 +880,15 @@ exports[`test Directory renders with correct number of children 1`] = `
       <div
         className="col-md-4">
         <a
-          href="http://maggio.info/">
+          href="http://maggio.info/"
+          target="_blank">
           http://maggio.info/
         </a>
       </div>
       <div
         className="grey col-md-3">
         <a
+          className="phone-number"
           href="tel:1968006576">
           1968006576
         </a>
@@ -855,13 +911,15 @@ exports[`test Directory renders with correct number of children 1`] = `
       <div
         className="col-md-4">
         <a
-          href="http://www.keeling.com/">
+          href="http://www.keeling.com/"
+          target="_blank">
           http://www.keeling.com/
         </a>
       </div>
       <div
         className="grey col-md-3">
         <a
+          className="phone-number"
           href="tel:7129561196">
           7129561196
         </a>
@@ -884,13 +942,15 @@ exports[`test Directory renders with correct number of children 1`] = `
       <div
         className="col-md-4">
         <a
-          href="http://feil.com/">
+          href="http://feil.com/"
+          target="_blank">
           http://feil.com/
         </a>
       </div>
       <div
         className="grey col-md-3">
         <a
+          className="phone-number"
           href="tel:7356889694">
           7356889694
         </a>
@@ -913,13 +973,15 @@ exports[`test Directory renders with correct number of children 1`] = `
       <div
         className="col-md-4">
         <a
-          href="http://rutherford-durgan.com/">
+          href="http://rutherford-durgan.com/"
+          target="_blank">
           http://rutherford-durgan.com/
         </a>
       </div>
       <div
         className="grey col-md-3">
         <a
+          className="phone-number"
           href="tel:7271068051">
           7271068051
         </a>
@@ -942,13 +1004,15 @@ exports[`test Directory renders with correct number of children 1`] = `
       <div
         className="col-md-4">
         <a
-          href="http://www.koss.org/">
+          href="http://www.koss.org/"
+          target="_blank">
           http://www.koss.org/
         </a>
       </div>
       <div
         className="grey col-md-3">
         <a
+          className="phone-number"
           href="tel:0827821757">
           0827821757
         </a>
@@ -971,13 +1035,15 @@ exports[`test Directory renders with correct number of children 1`] = `
       <div
         className="col-md-4">
         <a
-          href="http://www.ebert.com/">
+          href="http://www.ebert.com/"
+          target="_blank">
           http://www.ebert.com/
         </a>
       </div>
       <div
         className="grey col-md-3">
         <a
+          className="phone-number"
           href="tel:1187452299">
           1187452299
         </a>
@@ -1000,13 +1066,15 @@ exports[`test Directory renders with correct number of children 1`] = `
       <div
         className="col-md-4">
         <a
-          href="http://www.runte.com/">
+          href="http://www.runte.com/"
+          target="_blank">
           http://www.runte.com/
         </a>
       </div>
       <div
         className="grey col-md-3">
         <a
+          className="phone-number"
           href="tel:9543464624">
           9543464624
         </a>
@@ -1029,13 +1097,15 @@ exports[`test Directory renders with correct number of children 1`] = `
       <div
         className="col-md-4">
         <a
-          href="http://aufderhar.com/">
+          href="http://aufderhar.com/"
+          target="_blank">
           http://aufderhar.com/
         </a>
       </div>
       <div
         className="grey col-md-3">
         <a
+          className="phone-number"
           href="tel:0303519618">
           0303519618
         </a>
@@ -1058,13 +1128,15 @@ exports[`test Directory renders with correct number of children 1`] = `
       <div
         className="col-md-4">
         <a
-          href="http://cruickshank.com/">
+          href="http://cruickshank.com/"
+          target="_blank">
           http://cruickshank.com/
         </a>
       </div>
       <div
         className="grey col-md-3">
         <a
+          className="phone-number"
           href="tel:2378157628">
           2378157628
         </a>
@@ -1087,13 +1159,15 @@ exports[`test Directory renders with correct number of children 1`] = `
       <div
         className="col-md-4">
         <a
-          href="http://www.stoltenberg.com/">
+          href="http://www.stoltenberg.com/"
+          target="_blank">
           http://www.stoltenberg.com/
         </a>
       </div>
       <div
         className="grey col-md-3">
         <a
+          className="phone-number"
           href="tel:3632256643">
           3632256643
         </a>
@@ -1116,13 +1190,15 @@ exports[`test Directory renders with correct number of children 1`] = `
       <div
         className="col-md-4">
         <a
-          href="http://kunze.biz/">
+          href="http://kunze.biz/"
+          target="_blank">
           http://kunze.biz/
         </a>
       </div>
       <div
         className="grey col-md-3">
         <a
+          className="phone-number"
           href="tel:1134687127">
           1134687127
         </a>
@@ -1145,13 +1221,15 @@ exports[`test Directory renders with correct number of children 1`] = `
       <div
         className="col-md-4">
         <a
-          href="http://braun-nicolas.com/">
+          href="http://braun-nicolas.com/"
+          target="_blank">
           http://braun-nicolas.com/
         </a>
       </div>
       <div
         className="grey col-md-3">
         <a
+          className="phone-number"
           href="tel:6949336515">
           6949336515
         </a>
@@ -1174,13 +1252,15 @@ exports[`test Directory renders with correct number of children 1`] = `
       <div
         className="col-md-4">
         <a
-          href="http://www.mclaughlin.com/">
+          href="http://www.mclaughlin.com/"
+          target="_blank">
           http://www.mclaughlin.com/
         </a>
       </div>
       <div
         className="grey col-md-3">
         <a
+          className="phone-number"
           href="tel:7211056265">
           7211056265
         </a>
@@ -1203,13 +1283,15 @@ exports[`test Directory renders with correct number of children 1`] = `
       <div
         className="col-md-4">
         <a
-          href="http://www.green-cassin.com/">
+          href="http://www.green-cassin.com/"
+          target="_blank">
           http://www.green-cassin.com/
         </a>
       </div>
       <div
         className="grey col-md-3">
         <a
+          className="phone-number"
           href="tel:0249816319">
           0249816319
         </a>
@@ -1232,13 +1314,15 @@ exports[`test Directory renders with correct number of children 1`] = `
       <div
         className="col-md-4">
         <a
-          href="http://www.upton.com/">
+          href="http://www.upton.com/"
+          target="_blank">
           http://www.upton.com/
         </a>
       </div>
       <div
         className="grey col-md-3">
         <a
+          className="phone-number"
           href="tel:7529901027">
           7529901027
         </a>
@@ -1261,13 +1345,15 @@ exports[`test Directory renders with correct number of children 1`] = `
       <div
         className="col-md-4">
         <a
-          href="http://connelly-renner.com/">
+          href="http://connelly-renner.com/"
+          target="_blank">
           http://connelly-renner.com/
         </a>
       </div>
       <div
         className="grey col-md-3">
         <a
+          className="phone-number"
           href="tel:5991751665">
           5991751665
         </a>
@@ -1290,13 +1376,15 @@ exports[`test Directory renders with correct number of children 1`] = `
       <div
         className="col-md-4">
         <a
-          href="http://www.schmitt-lueilwitz.org/">
+          href="http://www.schmitt-lueilwitz.org/"
+          target="_blank">
           http://www.schmitt-lueilwitz.org/
         </a>
       </div>
       <div
         className="grey col-md-3">
         <a
+          className="phone-number"
           href="tel:2292139990">
           2292139990
         </a>
@@ -1319,13 +1407,15 @@ exports[`test Directory renders with correct number of children 1`] = `
       <div
         className="col-md-4">
         <a
-          href="http://mayert.com/">
+          href="http://mayert.com/"
+          target="_blank">
           http://mayert.com/
         </a>
       </div>
       <div
         className="grey col-md-3">
         <a
+          className="phone-number"
           href="tel:9947828030">
           9947828030
         </a>
@@ -1348,13 +1438,15 @@ exports[`test Directory renders with correct number of children 1`] = `
       <div
         className="col-md-4">
         <a
-          href="http://beer.org/">
+          href="http://beer.org/"
+          target="_blank">
           http://beer.org/
         </a>
       </div>
       <div
         className="grey col-md-3">
         <a
+          className="phone-number"
           href="tel:5431345849">
           5431345849
         </a>
@@ -1377,13 +1469,15 @@ exports[`test Directory renders with correct number of children 1`] = `
       <div
         className="col-md-4">
         <a
-          href="http://schowalter.info/">
+          href="http://schowalter.info/"
+          target="_blank">
           http://schowalter.info/
         </a>
       </div>
       <div
         className="grey col-md-3">
         <a
+          className="phone-number"
           href="tel:6164509215">
           6164509215
         </a>
@@ -1406,13 +1500,15 @@ exports[`test Directory renders with correct number of children 1`] = `
       <div
         className="col-md-4">
         <a
-          href="http://jones-howe.com/">
+          href="http://jones-howe.com/"
+          target="_blank">
           http://jones-howe.com/
         </a>
       </div>
       <div
         className="grey col-md-3">
         <a
+          className="phone-number"
           href="tel:2633424635">
           2633424635
         </a>
@@ -1435,13 +1531,15 @@ exports[`test Directory renders with correct number of children 1`] = `
       <div
         className="col-md-4">
         <a
-          href="http://ledner.org/">
+          href="http://ledner.org/"
+          target="_blank">
           http://ledner.org/
         </a>
       </div>
       <div
         className="grey col-md-3">
         <a
+          className="phone-number"
           href="tel:8677489190">
           8677489190
         </a>
@@ -1464,13 +1562,15 @@ exports[`test Directory renders with correct number of children 1`] = `
       <div
         className="col-md-4">
         <a
-          href="http://smitham.info/">
+          href="http://smitham.info/"
+          target="_blank">
           http://smitham.info/
         </a>
       </div>
       <div
         className="grey col-md-3">
         <a
+          className="phone-number"
           href="tel:1872318358">
           1872318358
         </a>

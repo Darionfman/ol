@@ -17,7 +17,6 @@ test('Next and previous to be strings', async () => {
   expect(Store.next).toBe('http://ec2-54-84-251-148.compute-1.amazonaws.com/businesses?page=2')
 })
 test('Should be able to fetch different pages', async () => {
-  await Store.fetchFirstPage()
   const fetch = await Store.fetchPage(Store.next)
   //should be page 2 with 50 businesses
   expect(fetch.length).toEqual(50)
