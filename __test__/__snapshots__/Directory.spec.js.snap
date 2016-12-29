@@ -2,1453 +2,1479 @@ exports[`test Directory renders with correct number of children 1`] = `
 <div
   className="col-md-12">
   <div
-    className="col-md-12">
-    <a
-      onClick={[Function]}
-      style={Object {}}>
-      <div
-        className="col-md-2">
-        Ol
-      </div>
-      <div
-        className="col-md-3">
-        Yundt-Flatley
-      </div>
-    </a>
+    className="row">
     <div
-      className="col-md-4">
-      <a
-        href="http://www.halvorson.com/">
-        http://www.halvorson.com/
-      </a>
+      className="col-md-6">
+      <button
+        className="btn btn-default"
+        disabled={false}
+        onClick={[Function]}
+        type="button">
+        previous
+      </button>
     </div>
     <div
-      className="col-md-3">
-      <a
-        href="tel:4034880719">
-        4034880719
-      </a>
+      className="col-md-6">
+      <button
+        className="right btn btn-default"
+        disabled={false}
+        onClick={[Function]}
+        type="button">
+        next
+      </button>
     </div>
   </div>
   <div
-    className="col-md-12">
-    <a
-      onClick={[Function]}
-      style={Object {}}>
+    className="row">
+    <div
+      className="col-md-12">
+      <a
+        onClick={[Function]}
+        style={Object {}}>
+        <div
+          className="col-md-2">
+          Ol
+        </div>
+        <div
+          className="grey col-md-3">
+          Yundt-Flatley
+        </div>
+      </a>
       <div
-        className="col-md-2">
-        Ol
+        className="col-md-4">
+        <a
+          href="http://www.halvorson.com/">
+          http://www.halvorson.com/
+        </a>
       </div>
       <div
-        className="col-md-3">
-        Botsford Ltd
+        className="grey col-md-3">
+        <a
+          href="tel:4034880719">
+          4034880719
+        </a>
       </div>
-    </a>
-    <div
-      className="col-md-4">
-      <a
-        href="http://bergstrom.org/">
-        http://bergstrom.org/
-      </a>
     </div>
     <div
-      className="col-md-3">
+      className="col-md-12">
       <a
-        href="tel:2462288476">
-        2462288476
+        onClick={[Function]}
+        style={Object {}}>
+        <div
+          className="col-md-2">
+          Ol
+        </div>
+        <div
+          className="grey col-md-3">
+          Botsford Ltd
+        </div>
       </a>
-    </div>
-  </div>
-  <div
-    className="col-md-12">
-    <a
-      onClick={[Function]}
-      style={Object {}}>
       <div
-        className="col-md-2">
-        Ol
+        className="col-md-4">
+        <a
+          href="http://bergstrom.org/">
+          http://bergstrom.org/
+        </a>
       </div>
       <div
-        className="col-md-3">
-        Turner, Kris and Conroy
+        className="grey col-md-3">
+        <a
+          href="tel:2462288476">
+          2462288476
+        </a>
       </div>
-    </a>
-    <div
-      className="col-md-4">
-      <a
-        href="http://schmitt.net/">
-        http://schmitt.net/
-      </a>
     </div>
     <div
-      className="col-md-3">
+      className="col-md-12">
       <a
-        href="tel:1788019885">
-        1788019885
+        onClick={[Function]}
+        style={Object {}}>
+        <div
+          className="col-md-2">
+          Ol
+        </div>
+        <div
+          className="grey col-md-3">
+          Turner, Kris and Conroy
+        </div>
       </a>
-    </div>
-  </div>
-  <div
-    className="col-md-12">
-    <a
-      onClick={[Function]}
-      style={Object {}}>
       <div
-        className="col-md-2">
-        Ol
+        className="col-md-4">
+        <a
+          href="http://schmitt.net/">
+          http://schmitt.net/
+        </a>
       </div>
       <div
-        className="col-md-3">
-        Kertzmann LLC
+        className="grey col-md-3">
+        <a
+          href="tel:1788019885">
+          1788019885
+        </a>
       </div>
-    </a>
-    <div
-      className="col-md-4">
-      <a
-        href="http://okeefe.info/">
-        http://okeefe.info/
-      </a>
     </div>
     <div
-      className="col-md-3">
+      className="col-md-12">
       <a
-        href="tel:4442359224">
-        4442359224
+        onClick={[Function]}
+        style={Object {}}>
+        <div
+          className="col-md-2">
+          Ol
+        </div>
+        <div
+          className="grey col-md-3">
+          Kertzmann LLC
+        </div>
       </a>
-    </div>
-  </div>
-  <div
-    className="col-md-12">
-    <a
-      onClick={[Function]}
-      style={Object {}}>
       <div
-        className="col-md-2">
-        Ol
+        className="col-md-4">
+        <a
+          href="http://okeefe.info/">
+          http://okeefe.info/
+        </a>
       </div>
       <div
-        className="col-md-3">
-        Nader-Mosciski
+        className="grey col-md-3">
+        <a
+          href="tel:4442359224">
+          4442359224
+        </a>
       </div>
-    </a>
-    <div
-      className="col-md-4">
-      <a
-        href="http://schumm.com/">
-        http://schumm.com/
-      </a>
     </div>
     <div
-      className="col-md-3">
+      className="col-md-12">
       <a
-        href="tel:7106578275">
-        7106578275
+        onClick={[Function]}
+        style={Object {}}>
+        <div
+          className="col-md-2">
+          Ol
+        </div>
+        <div
+          className="grey col-md-3">
+          Nader-Mosciski
+        </div>
       </a>
-    </div>
-  </div>
-  <div
-    className="col-md-12">
-    <a
-      onClick={[Function]}
-      style={Object {}}>
       <div
-        className="col-md-2">
-        Ol
+        className="col-md-4">
+        <a
+          href="http://schumm.com/">
+          http://schumm.com/
+        </a>
       </div>
       <div
-        className="col-md-3">
-        Renner, Ferry and Dibbert
+        className="grey col-md-3">
+        <a
+          href="tel:7106578275">
+          7106578275
+        </a>
       </div>
-    </a>
-    <div
-      className="col-md-4">
-      <a
-        href="http://www.schiller-bartell.net/">
-        http://www.schiller-bartell.net/
-      </a>
     </div>
     <div
-      className="col-md-3">
+      className="col-md-12">
       <a
-        href="tel:5491562078">
-        5491562078
+        onClick={[Function]}
+        style={Object {}}>
+        <div
+          className="col-md-2">
+          Ol
+        </div>
+        <div
+          className="grey col-md-3">
+          Renner, Ferry and Dibbert
+        </div>
       </a>
-    </div>
-  </div>
-  <div
-    className="col-md-12">
-    <a
-      onClick={[Function]}
-      style={Object {}}>
       <div
-        className="col-md-2">
-        Ol
+        className="col-md-4">
+        <a
+          href="http://www.schiller-bartell.net/">
+          http://www.schiller-bartell.net/
+        </a>
       </div>
       <div
-        className="col-md-3">
-        Fritsch and Sons
+        className="grey col-md-3">
+        <a
+          href="tel:5491562078">
+          5491562078
+        </a>
       </div>
-    </a>
-    <div
-      className="col-md-4">
-      <a
-        href="http://www.schmeler.com/">
-        http://www.schmeler.com/
-      </a>
     </div>
     <div
-      className="col-md-3">
+      className="col-md-12">
       <a
-        href="tel:6068112791">
-        6068112791
+        onClick={[Function]}
+        style={Object {}}>
+        <div
+          className="col-md-2">
+          Ol
+        </div>
+        <div
+          className="grey col-md-3">
+          Fritsch and Sons
+        </div>
       </a>
-    </div>
-  </div>
-  <div
-    className="col-md-12">
-    <a
-      onClick={[Function]}
-      style={Object {}}>
       <div
-        className="col-md-2">
-        Ol
+        className="col-md-4">
+        <a
+          href="http://www.schmeler.com/">
+          http://www.schmeler.com/
+        </a>
       </div>
       <div
-        className="col-md-3">
-        Bins-Bosco
+        className="grey col-md-3">
+        <a
+          href="tel:6068112791">
+          6068112791
+        </a>
       </div>
-    </a>
-    <div
-      className="col-md-4">
-      <a
-        href="http://www.cartwright-white.com/">
-        http://www.cartwright-white.com/
-      </a>
     </div>
     <div
-      className="col-md-3">
+      className="col-md-12">
       <a
-        href="tel:1516769808">
-        1516769808
+        onClick={[Function]}
+        style={Object {}}>
+        <div
+          className="col-md-2">
+          Ol
+        </div>
+        <div
+          className="grey col-md-3">
+          Bins-Bosco
+        </div>
       </a>
-    </div>
-  </div>
-  <div
-    className="col-md-12">
-    <a
-      onClick={[Function]}
-      style={Object {}}>
       <div
-        className="col-md-2">
-        Ol
+        className="col-md-4">
+        <a
+          href="http://www.cartwright-white.com/">
+          http://www.cartwright-white.com/
+        </a>
       </div>
       <div
-        className="col-md-3">
-        Mueller, Davis and Pfeffer
+        className="grey col-md-3">
+        <a
+          href="tel:1516769808">
+          1516769808
+        </a>
       </div>
-    </a>
-    <div
-      className="col-md-4">
-      <a
-        href="http://www.schaefer.com/">
-        http://www.schaefer.com/
-      </a>
     </div>
     <div
-      className="col-md-3">
+      className="col-md-12">
       <a
-        href="tel:8827125278">
-        8827125278
+        onClick={[Function]}
+        style={Object {}}>
+        <div
+          className="col-md-2">
+          Ol
+        </div>
+        <div
+          className="grey col-md-3">
+          Mueller, Davis and Pfeffer
+        </div>
       </a>
-    </div>
-  </div>
-  <div
-    className="col-md-12">
-    <a
-      onClick={[Function]}
-      style={Object {}}>
       <div
-        className="col-md-2">
-        Ol
+        className="col-md-4">
+        <a
+          href="http://www.schaefer.com/">
+          http://www.schaefer.com/
+        </a>
       </div>
       <div
-        className="col-md-3">
-        Lockman-Ward
+        className="grey col-md-3">
+        <a
+          href="tel:8827125278">
+          8827125278
+        </a>
       </div>
-    </a>
-    <div
-      className="col-md-4">
-      <a
-        href="http://legros.org/">
-        http://legros.org/
-      </a>
     </div>
     <div
-      className="col-md-3">
+      className="col-md-12">
       <a
-        href="tel:7888247882">
-        7888247882
+        onClick={[Function]}
+        style={Object {}}>
+        <div
+          className="col-md-2">
+          Ol
+        </div>
+        <div
+          className="grey col-md-3">
+          Lockman-Ward
+        </div>
       </a>
-    </div>
-  </div>
-  <div
-    className="col-md-12">
-    <a
-      onClick={[Function]}
-      style={Object {}}>
       <div
-        className="col-md-2">
-        Ol
+        className="col-md-4">
+        <a
+          href="http://legros.org/">
+          http://legros.org/
+        </a>
       </div>
       <div
-        className="col-md-3">
-        Bashirian LLC
+        className="grey col-md-3">
+        <a
+          href="tel:7888247882">
+          7888247882
+        </a>
       </div>
-    </a>
-    <div
-      className="col-md-4">
-      <a
-        href="http://www.windler.info/">
-        http://www.windler.info/
-      </a>
     </div>
     <div
-      className="col-md-3">
+      className="col-md-12">
       <a
-        href="tel:1366898018">
-        1366898018
+        onClick={[Function]}
+        style={Object {}}>
+        <div
+          className="col-md-2">
+          Ol
+        </div>
+        <div
+          className="grey col-md-3">
+          Bashirian LLC
+        </div>
       </a>
-    </div>
-  </div>
-  <div
-    className="col-md-12">
-    <a
-      onClick={[Function]}
-      style={Object {}}>
       <div
-        className="col-md-2">
-        Ol
+        className="col-md-4">
+        <a
+          href="http://www.windler.info/">
+          http://www.windler.info/
+        </a>
       </div>
       <div
-        className="col-md-3">
-        Jacobson, Bashirian and Hansen
+        className="grey col-md-3">
+        <a
+          href="tel:1366898018">
+          1366898018
+        </a>
       </div>
-    </a>
-    <div
-      className="col-md-4">
-      <a
-        href="http://collins.biz/">
-        http://collins.biz/
-      </a>
     </div>
     <div
-      className="col-md-3">
+      className="col-md-12">
       <a
-        href="tel:5858963747">
-        5858963747
+        onClick={[Function]}
+        style={Object {}}>
+        <div
+          className="col-md-2">
+          Ol
+        </div>
+        <div
+          className="grey col-md-3">
+          Jacobson, Bashirian and Hansen
+        </div>
       </a>
-    </div>
-  </div>
-  <div
-    className="col-md-12">
-    <a
-      onClick={[Function]}
-      style={Object {}}>
       <div
-        className="col-md-2">
-        Ol
+        className="col-md-4">
+        <a
+          href="http://collins.biz/">
+          http://collins.biz/
+        </a>
       </div>
       <div
-        className="col-md-3">
-        Waters, Larkin and Nienow
+        className="grey col-md-3">
+        <a
+          href="tel:5858963747">
+          5858963747
+        </a>
       </div>
-    </a>
-    <div
-      className="col-md-4">
-      <a
-        href="http://upton.com/">
-        http://upton.com/
-      </a>
     </div>
     <div
-      className="col-md-3">
+      className="col-md-12">
       <a
-        href="tel:6793339715">
-        6793339715
+        onClick={[Function]}
+        style={Object {}}>
+        <div
+          className="col-md-2">
+          Ol
+        </div>
+        <div
+          className="grey col-md-3">
+          Waters, Larkin and Nienow
+        </div>
       </a>
-    </div>
-  </div>
-  <div
-    className="col-md-12">
-    <a
-      onClick={[Function]}
-      style={Object {}}>
       <div
-        className="col-md-2">
-        Ol
+        className="col-md-4">
+        <a
+          href="http://upton.com/">
+          http://upton.com/
+        </a>
       </div>
       <div
-        className="col-md-3">
-        Parker LLC
+        className="grey col-md-3">
+        <a
+          href="tel:6793339715">
+          6793339715
+        </a>
       </div>
-    </a>
-    <div
-      className="col-md-4">
-      <a
-        href="http://www.kertzmann.com/">
-        http://www.kertzmann.com/
-      </a>
     </div>
     <div
-      className="col-md-3">
+      className="col-md-12">
       <a
-        href="tel:4778921820">
-        4778921820
+        onClick={[Function]}
+        style={Object {}}>
+        <div
+          className="col-md-2">
+          Ol
+        </div>
+        <div
+          className="grey col-md-3">
+          Parker LLC
+        </div>
       </a>
-    </div>
-  </div>
-  <div
-    className="col-md-12">
-    <a
-      onClick={[Function]}
-      style={Object {}}>
       <div
-        className="col-md-2">
-        Ol
+        className="col-md-4">
+        <a
+          href="http://www.kertzmann.com/">
+          http://www.kertzmann.com/
+        </a>
       </div>
       <div
-        className="col-md-3">
-        Pollich PLC
+        className="grey col-md-3">
+        <a
+          href="tel:4778921820">
+          4778921820
+        </a>
       </div>
-    </a>
-    <div
-      className="col-md-4">
-      <a
-        href="http://www.collier.net/">
-        http://www.collier.net/
-      </a>
     </div>
     <div
-      className="col-md-3">
+      className="col-md-12">
       <a
-        href="tel:4257221865">
-        4257221865
+        onClick={[Function]}
+        style={Object {}}>
+        <div
+          className="col-md-2">
+          Ol
+        </div>
+        <div
+          className="grey col-md-3">
+          Pollich PLC
+        </div>
       </a>
-    </div>
-  </div>
-  <div
-    className="col-md-12">
-    <a
-      onClick={[Function]}
-      style={Object {}}>
       <div
-        className="col-md-2">
-        Ol
+        className="col-md-4">
+        <a
+          href="http://www.collier.net/">
+          http://www.collier.net/
+        </a>
       </div>
       <div
-        className="col-md-3">
-        Dare PLC
+        className="grey col-md-3">
+        <a
+          href="tel:4257221865">
+          4257221865
+        </a>
       </div>
-    </a>
-    <div
-      className="col-md-4">
-      <a
-        href="http://www.rosenbaum-gerhold.com/">
-        http://www.rosenbaum-gerhold.com/
-      </a>
     </div>
     <div
-      className="col-md-3">
+      className="col-md-12">
       <a
-        href="tel:2250907292">
-        2250907292
+        onClick={[Function]}
+        style={Object {}}>
+        <div
+          className="col-md-2">
+          Ol
+        </div>
+        <div
+          className="grey col-md-3">
+          Dare PLC
+        </div>
       </a>
-    </div>
-  </div>
-  <div
-    className="col-md-12">
-    <a
-      onClick={[Function]}
-      style={Object {}}>
       <div
-        className="col-md-2">
-        Ol
+        className="col-md-4">
+        <a
+          href="http://www.rosenbaum-gerhold.com/">
+          http://www.rosenbaum-gerhold.com/
+        </a>
       </div>
       <div
-        className="col-md-3">
-        Fritsch PLC
+        className="grey col-md-3">
+        <a
+          href="tel:2250907292">
+          2250907292
+        </a>
       </div>
-    </a>
-    <div
-      className="col-md-4">
-      <a
-        href="http://www.gleichner-fay.com/">
-        http://www.gleichner-fay.com/
-      </a>
     </div>
     <div
-      className="col-md-3">
+      className="col-md-12">
       <a
-        href="tel:4874514201">
-        4874514201
+        onClick={[Function]}
+        style={Object {}}>
+        <div
+          className="col-md-2">
+          Ol
+        </div>
+        <div
+          className="grey col-md-3">
+          Fritsch PLC
+        </div>
       </a>
-    </div>
-  </div>
-  <div
-    className="col-md-12">
-    <a
-      onClick={[Function]}
-      style={Object {}}>
       <div
-        className="col-md-2">
-        Ol
+        className="col-md-4">
+        <a
+          href="http://www.gleichner-fay.com/">
+          http://www.gleichner-fay.com/
+        </a>
       </div>
       <div
-        className="col-md-3">
-        Rogahn, Armstrong and Towne
+        className="grey col-md-3">
+        <a
+          href="tel:4874514201">
+          4874514201
+        </a>
       </div>
-    </a>
-    <div
-      className="col-md-4">
-      <a
-        href="http://ortiz.net/">
-        http://ortiz.net/
-      </a>
     </div>
     <div
-      className="col-md-3">
+      className="col-md-12">
       <a
-        href="tel:4634023657">
-        4634023657
+        onClick={[Function]}
+        style={Object {}}>
+        <div
+          className="col-md-2">
+          Ol
+        </div>
+        <div
+          className="grey col-md-3">
+          Rogahn, Armstrong and Towne
+        </div>
       </a>
-    </div>
-  </div>
-  <div
-    className="col-md-12">
-    <a
-      onClick={[Function]}
-      style={Object {}}>
       <div
-        className="col-md-2">
-        Ol
+        className="col-md-4">
+        <a
+          href="http://ortiz.net/">
+          http://ortiz.net/
+        </a>
       </div>
       <div
-        className="col-md-3">
-        Nikolaus, Batz and Hyatt
+        className="grey col-md-3">
+        <a
+          href="tel:4634023657">
+          4634023657
+        </a>
       </div>
-    </a>
-    <div
-      className="col-md-4">
-      <a
-        href="http://jacobs.com/">
-        http://jacobs.com/
-      </a>
     </div>
     <div
-      className="col-md-3">
+      className="col-md-12">
       <a
-        href="tel:6045870402">
-        6045870402
+        onClick={[Function]}
+        style={Object {}}>
+        <div
+          className="col-md-2">
+          Ol
+        </div>
+        <div
+          className="grey col-md-3">
+          Nikolaus, Batz and Hyatt
+        </div>
       </a>
-    </div>
-  </div>
-  <div
-    className="col-md-12">
-    <a
-      onClick={[Function]}
-      style={Object {}}>
       <div
-        className="col-md-2">
-        Ol
+        className="col-md-4">
+        <a
+          href="http://jacobs.com/">
+          http://jacobs.com/
+        </a>
       </div>
       <div
-        className="col-md-3">
-        Smitham Group
+        className="grey col-md-3">
+        <a
+          href="tel:6045870402">
+          6045870402
+        </a>
       </div>
-    </a>
-    <div
-      className="col-md-4">
-      <a
-        href="http://www.botsford.com/">
-        http://www.botsford.com/
-      </a>
     </div>
     <div
-      className="col-md-3">
+      className="col-md-12">
       <a
-        href="tel:5962018046">
-        5962018046
+        onClick={[Function]}
+        style={Object {}}>
+        <div
+          className="col-md-2">
+          Ol
+        </div>
+        <div
+          className="grey col-md-3">
+          Smitham Group
+        </div>
       </a>
-    </div>
-  </div>
-  <div
-    className="col-md-12">
-    <a
-      onClick={[Function]}
-      style={Object {}}>
       <div
-        className="col-md-2">
-        Ol
+        className="col-md-4">
+        <a
+          href="http://www.botsford.com/">
+          http://www.botsford.com/
+        </a>
       </div>
       <div
-        className="col-md-3">
-        Anderson LLC
+        className="grey col-md-3">
+        <a
+          href="tel:5962018046">
+          5962018046
+        </a>
       </div>
-    </a>
-    <div
-      className="col-md-4">
-      <a
-        href="http://www.weissnat.com/">
-        http://www.weissnat.com/
-      </a>
     </div>
     <div
-      className="col-md-3">
+      className="col-md-12">
       <a
-        href="tel:2070582456">
-        2070582456
+        onClick={[Function]}
+        style={Object {}}>
+        <div
+          className="col-md-2">
+          Ol
+        </div>
+        <div
+          className="grey col-md-3">
+          Anderson LLC
+        </div>
       </a>
-    </div>
-  </div>
-  <div
-    className="col-md-12">
-    <a
-      onClick={[Function]}
-      style={Object {}}>
       <div
-        className="col-md-2">
-        Ol
+        className="col-md-4">
+        <a
+          href="http://www.weissnat.com/">
+          http://www.weissnat.com/
+        </a>
       </div>
       <div
-        className="col-md-3">
-        Runolfsson PLC
+        className="grey col-md-3">
+        <a
+          href="tel:2070582456">
+          2070582456
+        </a>
       </div>
-    </a>
-    <div
-      className="col-md-4">
-      <a
-        href="http://www.goldner.com/">
-        http://www.goldner.com/
-      </a>
     </div>
     <div
-      className="col-md-3">
+      className="col-md-12">
       <a
-        href="tel:4197749267">
-        4197749267
+        onClick={[Function]}
+        style={Object {}}>
+        <div
+          className="col-md-2">
+          Ol
+        </div>
+        <div
+          className="grey col-md-3">
+          Runolfsson PLC
+        </div>
       </a>
-    </div>
-  </div>
-  <div
-    className="col-md-12">
-    <a
-      onClick={[Function]}
-      style={Object {}}>
       <div
-        className="col-md-2">
-        Ol
+        className="col-md-4">
+        <a
+          href="http://www.goldner.com/">
+          http://www.goldner.com/
+        </a>
       </div>
       <div
-        className="col-md-3">
-        Schamberger, Nolan and Mann
+        className="grey col-md-3">
+        <a
+          href="tel:4197749267">
+          4197749267
+        </a>
       </div>
-    </a>
-    <div
-      className="col-md-4">
-      <a
-        href="http://west.net/">
-        http://west.net/
-      </a>
     </div>
     <div
-      className="col-md-3">
+      className="col-md-12">
       <a
-        href="tel:5138313444">
-        5138313444
+        onClick={[Function]}
+        style={Object {}}>
+        <div
+          className="col-md-2">
+          Ol
+        </div>
+        <div
+          className="grey col-md-3">
+          Schamberger, Nolan and Mann
+        </div>
       </a>
-    </div>
-  </div>
-  <div
-    className="col-md-12">
-    <a
-      onClick={[Function]}
-      style={Object {}}>
       <div
-        className="col-md-2">
-        Ol
+        className="col-md-4">
+        <a
+          href="http://west.net/">
+          http://west.net/
+        </a>
       </div>
       <div
-        className="col-md-3">
-        Miller, Mraz and Beatty
+        className="grey col-md-3">
+        <a
+          href="tel:5138313444">
+          5138313444
+        </a>
       </div>
-    </a>
-    <div
-      className="col-md-4">
-      <a
-        href="http://cormier.com/">
-        http://cormier.com/
-      </a>
     </div>
     <div
-      className="col-md-3">
+      className="col-md-12">
       <a
-        href="tel:8544861760">
-        8544861760
+        onClick={[Function]}
+        style={Object {}}>
+        <div
+          className="col-md-2">
+          Ol
+        </div>
+        <div
+          className="grey col-md-3">
+          Miller, Mraz and Beatty
+        </div>
       </a>
-    </div>
-  </div>
-  <div
-    className="col-md-12">
-    <a
-      onClick={[Function]}
-      style={Object {}}>
       <div
-        className="col-md-2">
-        Ol
+        className="col-md-4">
+        <a
+          href="http://cormier.com/">
+          http://cormier.com/
+        </a>
       </div>
       <div
-        className="col-md-3">
-        Harvey and Sons
+        className="grey col-md-3">
+        <a
+          href="tel:8544861760">
+          8544861760
+        </a>
       </div>
-    </a>
-    <div
-      className="col-md-4">
-      <a
-        href="http://www.ziemann.com/">
-        http://www.ziemann.com/
-      </a>
     </div>
     <div
-      className="col-md-3">
+      className="col-md-12">
       <a
-        href="tel:9150464732">
-        9150464732
+        onClick={[Function]}
+        style={Object {}}>
+        <div
+          className="col-md-2">
+          Ol
+        </div>
+        <div
+          className="grey col-md-3">
+          Harvey and Sons
+        </div>
       </a>
-    </div>
-  </div>
-  <div
-    className="col-md-12">
-    <a
-      onClick={[Function]}
-      style={Object {}}>
       <div
-        className="col-md-2">
-        Ol
+        className="col-md-4">
+        <a
+          href="http://www.ziemann.com/">
+          http://www.ziemann.com/
+        </a>
       </div>
       <div
-        className="col-md-3">
-        Predovic, Hammes and Jenkins
+        className="grey col-md-3">
+        <a
+          href="tel:9150464732">
+          9150464732
+        </a>
       </div>
-    </a>
-    <div
-      className="col-md-4">
-      <a
-        href="http://www.okon.com/">
-        http://www.okon.com/
-      </a>
     </div>
     <div
-      className="col-md-3">
+      className="col-md-12">
       <a
-        href="tel:8450811011">
-        8450811011
+        onClick={[Function]}
+        style={Object {}}>
+        <div
+          className="col-md-2">
+          Ol
+        </div>
+        <div
+          className="grey col-md-3">
+          Predovic, Hammes and Jenkins
+        </div>
       </a>
-    </div>
-  </div>
-  <div
-    className="col-md-12">
-    <a
-      onClick={[Function]}
-      style={Object {}}>
       <div
-        className="col-md-2">
-        Ol
+        className="col-md-4">
+        <a
+          href="http://www.okon.com/">
+          http://www.okon.com/
+        </a>
       </div>
       <div
-        className="col-md-3">
-        Schroeder Ltd
+        className="grey col-md-3">
+        <a
+          href="tel:8450811011">
+          8450811011
+        </a>
       </div>
-    </a>
-    <div
-      className="col-md-4">
-      <a
-        href="http://farrell-hettinger.info/">
-        http://farrell-hettinger.info/
-      </a>
     </div>
     <div
-      className="col-md-3">
+      className="col-md-12">
       <a
-        href="tel:6835570001">
-        6835570001
+        onClick={[Function]}
+        style={Object {}}>
+        <div
+          className="col-md-2">
+          Ol
+        </div>
+        <div
+          className="grey col-md-3">
+          Schroeder Ltd
+        </div>
       </a>
-    </div>
-  </div>
-  <div
-    className="col-md-12">
-    <a
-      onClick={[Function]}
-      style={Object {}}>
       <div
-        className="col-md-2">
-        Ol
+        className="col-md-4">
+        <a
+          href="http://farrell-hettinger.info/">
+          http://farrell-hettinger.info/
+        </a>
       </div>
       <div
-        className="col-md-3">
-        Bayer-Beahan
+        className="grey col-md-3">
+        <a
+          href="tel:6835570001">
+          6835570001
+        </a>
       </div>
-    </a>
-    <div
-      className="col-md-4">
-      <a
-        href="http://maggio.info/">
-        http://maggio.info/
-      </a>
     </div>
     <div
-      className="col-md-3">
+      className="col-md-12">
       <a
-        href="tel:1968006576">
-        1968006576
+        onClick={[Function]}
+        style={Object {}}>
+        <div
+          className="col-md-2">
+          Ol
+        </div>
+        <div
+          className="grey col-md-3">
+          Bayer-Beahan
+        </div>
       </a>
-    </div>
-  </div>
-  <div
-    className="col-md-12">
-    <a
-      onClick={[Function]}
-      style={Object {}}>
       <div
-        className="col-md-2">
-        Ol
+        className="col-md-4">
+        <a
+          href="http://maggio.info/">
+          http://maggio.info/
+        </a>
       </div>
       <div
-        className="col-md-3">
-        Nienow-Gerlach
+        className="grey col-md-3">
+        <a
+          href="tel:1968006576">
+          1968006576
+        </a>
       </div>
-    </a>
-    <div
-      className="col-md-4">
-      <a
-        href="http://www.keeling.com/">
-        http://www.keeling.com/
-      </a>
     </div>
     <div
-      className="col-md-3">
+      className="col-md-12">
       <a
-        href="tel:7129561196">
-        7129561196
+        onClick={[Function]}
+        style={Object {}}>
+        <div
+          className="col-md-2">
+          Ol
+        </div>
+        <div
+          className="grey col-md-3">
+          Nienow-Gerlach
+        </div>
       </a>
-    </div>
-  </div>
-  <div
-    className="col-md-12">
-    <a
-      onClick={[Function]}
-      style={Object {}}>
       <div
-        className="col-md-2">
-        Ol
+        className="col-md-4">
+        <a
+          href="http://www.keeling.com/">
+          http://www.keeling.com/
+        </a>
       </div>
       <div
-        className="col-md-3">
-        Jaskolski, Marquardt and Mueller
+        className="grey col-md-3">
+        <a
+          href="tel:7129561196">
+          7129561196
+        </a>
       </div>
-    </a>
-    <div
-      className="col-md-4">
-      <a
-        href="http://feil.com/">
-        http://feil.com/
-      </a>
     </div>
     <div
-      className="col-md-3">
+      className="col-md-12">
       <a
-        href="tel:7356889694">
-        7356889694
+        onClick={[Function]}
+        style={Object {}}>
+        <div
+          className="col-md-2">
+          Ol
+        </div>
+        <div
+          className="grey col-md-3">
+          Jaskolski, Marquardt and Mueller
+        </div>
       </a>
-    </div>
-  </div>
-  <div
-    className="col-md-12">
-    <a
-      onClick={[Function]}
-      style={Object {}}>
       <div
-        className="col-md-2">
-        Ol
+        className="col-md-4">
+        <a
+          href="http://feil.com/">
+          http://feil.com/
+        </a>
       </div>
       <div
-        className="col-md-3">
-        Crist, Kuhlman and Stiedemann
+        className="grey col-md-3">
+        <a
+          href="tel:7356889694">
+          7356889694
+        </a>
       </div>
-    </a>
-    <div
-      className="col-md-4">
-      <a
-        href="http://rutherford-durgan.com/">
-        http://rutherford-durgan.com/
-      </a>
     </div>
     <div
-      className="col-md-3">
+      className="col-md-12">
       <a
-        href="tel:7271068051">
-        7271068051
+        onClick={[Function]}
+        style={Object {}}>
+        <div
+          className="col-md-2">
+          Ol
+        </div>
+        <div
+          className="grey col-md-3">
+          Crist, Kuhlman and Stiedemann
+        </div>
       </a>
-    </div>
-  </div>
-  <div
-    className="col-md-12">
-    <a
-      onClick={[Function]}
-      style={Object {}}>
       <div
-        className="col-md-2">
-        Ol
+        className="col-md-4">
+        <a
+          href="http://rutherford-durgan.com/">
+          http://rutherford-durgan.com/
+        </a>
       </div>
       <div
-        className="col-md-3">
-        Kirlin, Mohr and Wisozk
+        className="grey col-md-3">
+        <a
+          href="tel:7271068051">
+          7271068051
+        </a>
       </div>
-    </a>
-    <div
-      className="col-md-4">
-      <a
-        href="http://www.koss.org/">
-        http://www.koss.org/
-      </a>
     </div>
     <div
-      className="col-md-3">
+      className="col-md-12">
       <a
-        href="tel:0827821757">
-        0827821757
+        onClick={[Function]}
+        style={Object {}}>
+        <div
+          className="col-md-2">
+          Ol
+        </div>
+        <div
+          className="grey col-md-3">
+          Kirlin, Mohr and Wisozk
+        </div>
       </a>
-    </div>
-  </div>
-  <div
-    className="col-md-12">
-    <a
-      onClick={[Function]}
-      style={Object {}}>
       <div
-        className="col-md-2">
-        Ol
+        className="col-md-4">
+        <a
+          href="http://www.koss.org/">
+          http://www.koss.org/
+        </a>
       </div>
       <div
-        className="col-md-3">
-        Quigley Group
+        className="grey col-md-3">
+        <a
+          href="tel:0827821757">
+          0827821757
+        </a>
       </div>
-    </a>
-    <div
-      className="col-md-4">
-      <a
-        href="http://www.ebert.com/">
-        http://www.ebert.com/
-      </a>
     </div>
     <div
-      className="col-md-3">
+      className="col-md-12">
       <a
-        href="tel:1187452299">
-        1187452299
+        onClick={[Function]}
+        style={Object {}}>
+        <div
+          className="col-md-2">
+          Ol
+        </div>
+        <div
+          className="grey col-md-3">
+          Quigley Group
+        </div>
       </a>
-    </div>
-  </div>
-  <div
-    className="col-md-12">
-    <a
-      onClick={[Function]}
-      style={Object {}}>
       <div
-        className="col-md-2">
-        Ol
+        className="col-md-4">
+        <a
+          href="http://www.ebert.com/">
+          http://www.ebert.com/
+        </a>
       </div>
       <div
-        className="col-md-3">
-        Mraz and Sons
+        className="grey col-md-3">
+        <a
+          href="tel:1187452299">
+          1187452299
+        </a>
       </div>
-    </a>
-    <div
-      className="col-md-4">
-      <a
-        href="http://www.runte.com/">
-        http://www.runte.com/
-      </a>
     </div>
     <div
-      className="col-md-3">
+      className="col-md-12">
       <a
-        href="tel:9543464624">
-        9543464624
+        onClick={[Function]}
+        style={Object {}}>
+        <div
+          className="col-md-2">
+          Ol
+        </div>
+        <div
+          className="grey col-md-3">
+          Mraz and Sons
+        </div>
       </a>
-    </div>
-  </div>
-  <div
-    className="col-md-12">
-    <a
-      onClick={[Function]}
-      style={Object {}}>
       <div
-        className="col-md-2">
-        Ol
+        className="col-md-4">
+        <a
+          href="http://www.runte.com/">
+          http://www.runte.com/
+        </a>
       </div>
       <div
-        className="col-md-3">
-        Mante, Dicki and Satterfield
+        className="grey col-md-3">
+        <a
+          href="tel:9543464624">
+          9543464624
+        </a>
       </div>
-    </a>
-    <div
-      className="col-md-4">
-      <a
-        href="http://aufderhar.com/">
-        http://aufderhar.com/
-      </a>
     </div>
     <div
-      className="col-md-3">
+      className="col-md-12">
       <a
-        href="tel:0303519618">
-        0303519618
+        onClick={[Function]}
+        style={Object {}}>
+        <div
+          className="col-md-2">
+          Ol
+        </div>
+        <div
+          className="grey col-md-3">
+          Mante, Dicki and Satterfield
+        </div>
       </a>
-    </div>
-  </div>
-  <div
-    className="col-md-12">
-    <a
-      onClick={[Function]}
-      style={Object {}}>
       <div
-        className="col-md-2">
-        Ol
+        className="col-md-4">
+        <a
+          href="http://aufderhar.com/">
+          http://aufderhar.com/
+        </a>
       </div>
       <div
-        className="col-md-3">
-        Stroman, Halvorson and Denesik
+        className="grey col-md-3">
+        <a
+          href="tel:0303519618">
+          0303519618
+        </a>
       </div>
-    </a>
-    <div
-      className="col-md-4">
-      <a
-        href="http://cruickshank.com/">
-        http://cruickshank.com/
-      </a>
     </div>
     <div
-      className="col-md-3">
+      className="col-md-12">
       <a
-        href="tel:2378157628">
-        2378157628
+        onClick={[Function]}
+        style={Object {}}>
+        <div
+          className="col-md-2">
+          Ol
+        </div>
+        <div
+          className="grey col-md-3">
+          Stroman, Halvorson and Denesik
+        </div>
       </a>
-    </div>
-  </div>
-  <div
-    className="col-md-12">
-    <a
-      onClick={[Function]}
-      style={Object {}}>
       <div
-        className="col-md-2">
-        Ol
+        className="col-md-4">
+        <a
+          href="http://cruickshank.com/">
+          http://cruickshank.com/
+        </a>
       </div>
       <div
-        className="col-md-3">
-        Ankunding Group
+        className="grey col-md-3">
+        <a
+          href="tel:2378157628">
+          2378157628
+        </a>
       </div>
-    </a>
-    <div
-      className="col-md-4">
-      <a
-        href="http://www.stoltenberg.com/">
-        http://www.stoltenberg.com/
-      </a>
     </div>
     <div
-      className="col-md-3">
+      className="col-md-12">
       <a
-        href="tel:3632256643">
-        3632256643
+        onClick={[Function]}
+        style={Object {}}>
+        <div
+          className="col-md-2">
+          Ol
+        </div>
+        <div
+          className="grey col-md-3">
+          Ankunding Group
+        </div>
       </a>
-    </div>
-  </div>
-  <div
-    className="col-md-12">
-    <a
-      onClick={[Function]}
-      style={Object {}}>
       <div
-        className="col-md-2">
-        Ol
+        className="col-md-4">
+        <a
+          href="http://www.stoltenberg.com/">
+          http://www.stoltenberg.com/
+        </a>
       </div>
       <div
-        className="col-md-3">
-        Denesik-Bogisich
+        className="grey col-md-3">
+        <a
+          href="tel:3632256643">
+          3632256643
+        </a>
       </div>
-    </a>
-    <div
-      className="col-md-4">
-      <a
-        href="http://kunze.biz/">
-        http://kunze.biz/
-      </a>
     </div>
     <div
-      className="col-md-3">
+      className="col-md-12">
       <a
-        href="tel:1134687127">
-        1134687127
+        onClick={[Function]}
+        style={Object {}}>
+        <div
+          className="col-md-2">
+          Ol
+        </div>
+        <div
+          className="grey col-md-3">
+          Denesik-Bogisich
+        </div>
       </a>
-    </div>
-  </div>
-  <div
-    className="col-md-12">
-    <a
-      onClick={[Function]}
-      style={Object {}}>
       <div
-        className="col-md-2">
-        Ol
+        className="col-md-4">
+        <a
+          href="http://kunze.biz/">
+          http://kunze.biz/
+        </a>
       </div>
       <div
-        className="col-md-3">
-        Hegmann-Lowe
+        className="grey col-md-3">
+        <a
+          href="tel:1134687127">
+          1134687127
+        </a>
       </div>
-    </a>
-    <div
-      className="col-md-4">
-      <a
-        href="http://braun-nicolas.com/">
-        http://braun-nicolas.com/
-      </a>
     </div>
     <div
-      className="col-md-3">
+      className="col-md-12">
       <a
-        href="tel:6949336515">
-        6949336515
+        onClick={[Function]}
+        style={Object {}}>
+        <div
+          className="col-md-2">
+          Ol
+        </div>
+        <div
+          className="grey col-md-3">
+          Hegmann-Lowe
+        </div>
       </a>
-    </div>
-  </div>
-  <div
-    className="col-md-12">
-    <a
-      onClick={[Function]}
-      style={Object {}}>
       <div
-        className="col-md-2">
-        Ol
+        className="col-md-4">
+        <a
+          href="http://braun-nicolas.com/">
+          http://braun-nicolas.com/
+        </a>
       </div>
       <div
-        className="col-md-3">
-        Stoltenberg, Muller and Dickens
+        className="grey col-md-3">
+        <a
+          href="tel:6949336515">
+          6949336515
+        </a>
       </div>
-    </a>
-    <div
-      className="col-md-4">
-      <a
-        href="http://www.mclaughlin.com/">
-        http://www.mclaughlin.com/
-      </a>
     </div>
     <div
-      className="col-md-3">
+      className="col-md-12">
       <a
-        href="tel:7211056265">
-        7211056265
+        onClick={[Function]}
+        style={Object {}}>
+        <div
+          className="col-md-2">
+          Ol
+        </div>
+        <div
+          className="grey col-md-3">
+          Stoltenberg, Muller and Dickens
+        </div>
       </a>
-    </div>
-  </div>
-  <div
-    className="col-md-12">
-    <a
-      onClick={[Function]}
-      style={Object {}}>
       <div
-        className="col-md-2">
-        Ol
+        className="col-md-4">
+        <a
+          href="http://www.mclaughlin.com/">
+          http://www.mclaughlin.com/
+        </a>
       </div>
       <div
-        className="col-md-3">
-        Heller-Lind
+        className="grey col-md-3">
+        <a
+          href="tel:7211056265">
+          7211056265
+        </a>
       </div>
-    </a>
-    <div
-      className="col-md-4">
-      <a
-        href="http://www.green-cassin.com/">
-        http://www.green-cassin.com/
-      </a>
     </div>
     <div
-      className="col-md-3">
+      className="col-md-12">
       <a
-        href="tel:0249816319">
-        0249816319
+        onClick={[Function]}
+        style={Object {}}>
+        <div
+          className="col-md-2">
+          Ol
+        </div>
+        <div
+          className="grey col-md-3">
+          Heller-Lind
+        </div>
       </a>
-    </div>
-  </div>
-  <div
-    className="col-md-12">
-    <a
-      onClick={[Function]}
-      style={Object {}}>
       <div
-        className="col-md-2">
-        Ol
+        className="col-md-4">
+        <a
+          href="http://www.green-cassin.com/">
+          http://www.green-cassin.com/
+        </a>
       </div>
       <div
-        className="col-md-3">
-        Bernier, Labadie and Kuvalis
+        className="grey col-md-3">
+        <a
+          href="tel:0249816319">
+          0249816319
+        </a>
       </div>
-    </a>
-    <div
-      className="col-md-4">
-      <a
-        href="http://www.upton.com/">
-        http://www.upton.com/
-      </a>
     </div>
     <div
-      className="col-md-3">
+      className="col-md-12">
       <a
-        href="tel:7529901027">
-        7529901027
+        onClick={[Function]}
+        style={Object {}}>
+        <div
+          className="col-md-2">
+          Ol
+        </div>
+        <div
+          className="grey col-md-3">
+          Bernier, Labadie and Kuvalis
+        </div>
       </a>
-    </div>
-  </div>
-  <div
-    className="col-md-12">
-    <a
-      onClick={[Function]}
-      style={Object {}}>
       <div
-        className="col-md-2">
-        Ol
+        className="col-md-4">
+        <a
+          href="http://www.upton.com/">
+          http://www.upton.com/
+        </a>
       </div>
       <div
-        className="col-md-3">
-        Lesch, Rath and Larson
+        className="grey col-md-3">
+        <a
+          href="tel:7529901027">
+          7529901027
+        </a>
       </div>
-    </a>
-    <div
-      className="col-md-4">
-      <a
-        href="http://connelly-renner.com/">
-        http://connelly-renner.com/
-      </a>
     </div>
     <div
-      className="col-md-3">
+      className="col-md-12">
       <a
-        href="tel:5991751665">
-        5991751665
+        onClick={[Function]}
+        style={Object {}}>
+        <div
+          className="col-md-2">
+          Ol
+        </div>
+        <div
+          className="grey col-md-3">
+          Lesch, Rath and Larson
+        </div>
       </a>
-    </div>
-  </div>
-  <div
-    className="col-md-12">
-    <a
-      onClick={[Function]}
-      style={Object {}}>
       <div
-        className="col-md-2">
-        Ol
+        className="col-md-4">
+        <a
+          href="http://connelly-renner.com/">
+          http://connelly-renner.com/
+        </a>
       </div>
       <div
-        className="col-md-3">
-        Hansen-Reynolds
+        className="grey col-md-3">
+        <a
+          href="tel:5991751665">
+          5991751665
+        </a>
       </div>
-    </a>
-    <div
-      className="col-md-4">
-      <a
-        href="http://www.schmitt-lueilwitz.org/">
-        http://www.schmitt-lueilwitz.org/
-      </a>
     </div>
     <div
-      className="col-md-3">
+      className="col-md-12">
       <a
-        href="tel:2292139990">
-        2292139990
+        onClick={[Function]}
+        style={Object {}}>
+        <div
+          className="col-md-2">
+          Ol
+        </div>
+        <div
+          className="grey col-md-3">
+          Hansen-Reynolds
+        </div>
       </a>
-    </div>
-  </div>
-  <div
-    className="col-md-12">
-    <a
-      onClick={[Function]}
-      style={Object {}}>
       <div
-        className="col-md-2">
-        Ol
+        className="col-md-4">
+        <a
+          href="http://www.schmitt-lueilwitz.org/">
+          http://www.schmitt-lueilwitz.org/
+        </a>
       </div>
       <div
-        className="col-md-3">
-        Rempel, McGlynn and Abshire
+        className="grey col-md-3">
+        <a
+          href="tel:2292139990">
+          2292139990
+        </a>
       </div>
-    </a>
-    <div
-      className="col-md-4">
-      <a
-        href="http://mayert.com/">
-        http://mayert.com/
-      </a>
     </div>
     <div
-      className="col-md-3">
+      className="col-md-12">
       <a
-        href="tel:9947828030">
-        9947828030
+        onClick={[Function]}
+        style={Object {}}>
+        <div
+          className="col-md-2">
+          Ol
+        </div>
+        <div
+          className="grey col-md-3">
+          Rempel, McGlynn and Abshire
+        </div>
       </a>
-    </div>
-  </div>
-  <div
-    className="col-md-12">
-    <a
-      onClick={[Function]}
-      style={Object {}}>
       <div
-        className="col-md-2">
-        Ol
+        className="col-md-4">
+        <a
+          href="http://mayert.com/">
+          http://mayert.com/
+        </a>
       </div>
       <div
-        className="col-md-3">
-        Becker LLC
+        className="grey col-md-3">
+        <a
+          href="tel:9947828030">
+          9947828030
+        </a>
       </div>
-    </a>
-    <div
-      className="col-md-4">
-      <a
-        href="http://beer.org/">
-        http://beer.org/
-      </a>
     </div>
     <div
-      className="col-md-3">
+      className="col-md-12">
       <a
-        href="tel:5431345849">
-        5431345849
+        onClick={[Function]}
+        style={Object {}}>
+        <div
+          className="col-md-2">
+          Ol
+        </div>
+        <div
+          className="grey col-md-3">
+          Becker LLC
+        </div>
       </a>
-    </div>
-  </div>
-  <div
-    className="col-md-12">
-    <a
-      onClick={[Function]}
-      style={Object {}}>
       <div
-        className="col-md-2">
-        Ol
+        className="col-md-4">
+        <a
+          href="http://beer.org/">
+          http://beer.org/
+        </a>
       </div>
       <div
-        className="col-md-3">
-        West, Jaskolski and Stroman
+        className="grey col-md-3">
+        <a
+          href="tel:5431345849">
+          5431345849
+        </a>
       </div>
-    </a>
-    <div
-      className="col-md-4">
-      <a
-        href="http://schowalter.info/">
-        http://schowalter.info/
-      </a>
     </div>
     <div
-      className="col-md-3">
+      className="col-md-12">
       <a
-        href="tel:6164509215">
-        6164509215
+        onClick={[Function]}
+        style={Object {}}>
+        <div
+          className="col-md-2">
+          Ol
+        </div>
+        <div
+          className="grey col-md-3">
+          West, Jaskolski and Stroman
+        </div>
       </a>
-    </div>
-  </div>
-  <div
-    className="col-md-12">
-    <a
-      onClick={[Function]}
-      style={Object {}}>
       <div
-        className="col-md-2">
-        Ol
+        className="col-md-4">
+        <a
+          href="http://schowalter.info/">
+          http://schowalter.info/
+        </a>
       </div>
       <div
-        className="col-md-3">
-        Muller Ltd
+        className="grey col-md-3">
+        <a
+          href="tel:6164509215">
+          6164509215
+        </a>
       </div>
-    </a>
-    <div
-      className="col-md-4">
-      <a
-        href="http://jones-howe.com/">
-        http://jones-howe.com/
-      </a>
     </div>
     <div
-      className="col-md-3">
+      className="col-md-12">
       <a
-        href="tel:2633424635">
-        2633424635
+        onClick={[Function]}
+        style={Object {}}>
+        <div
+          className="col-md-2">
+          Ol
+        </div>
+        <div
+          className="grey col-md-3">
+          Muller Ltd
+        </div>
       </a>
-    </div>
-  </div>
-  <div
-    className="col-md-12">
-    <a
-      onClick={[Function]}
-      style={Object {}}>
       <div
-        className="col-md-2">
-        Ol
+        className="col-md-4">
+        <a
+          href="http://jones-howe.com/">
+          http://jones-howe.com/
+        </a>
       </div>
       <div
-        className="col-md-3">
-        Grimes Group
+        className="grey col-md-3">
+        <a
+          href="tel:2633424635">
+          2633424635
+        </a>
       </div>
-    </a>
-    <div
-      className="col-md-4">
-      <a
-        href="http://ledner.org/">
-        http://ledner.org/
-      </a>
     </div>
     <div
-      className="col-md-3">
+      className="col-md-12">
       <a
-        href="tel:8677489190">
-        8677489190
+        onClick={[Function]}
+        style={Object {}}>
+        <div
+          className="col-md-2">
+          Ol
+        </div>
+        <div
+          className="grey col-md-3">
+          Grimes Group
+        </div>
       </a>
-    </div>
-  </div>
-  <div
-    className="col-md-12">
-    <a
-      onClick={[Function]}
-      style={Object {}}>
       <div
-        className="col-md-2">
-        Ol
+        className="col-md-4">
+        <a
+          href="http://ledner.org/">
+          http://ledner.org/
+        </a>
       </div>
       <div
-        className="col-md-3">
-        Monahan Ltd
+        className="grey col-md-3">
+        <a
+          href="tel:8677489190">
+          8677489190
+        </a>
       </div>
-    </a>
-    <div
-      className="col-md-4">
-      <a
-        href="http://smitham.info/">
-        http://smitham.info/
-      </a>
     </div>
     <div
-      className="col-md-3">
+      className="col-md-12">
       <a
-        href="tel:1872318358">
-        1872318358
+        onClick={[Function]}
+        style={Object {}}>
+        <div
+          className="col-md-2">
+          Ol
+        </div>
+        <div
+          className="grey col-md-3">
+          Monahan Ltd
+        </div>
       </a>
+      <div
+        className="col-md-4">
+        <a
+          href="http://smitham.info/">
+          http://smitham.info/
+        </a>
+      </div>
+      <div
+        className="grey col-md-3">
+        <a
+          href="tel:1872318358">
+          1872318358
+        </a>
+      </div>
     </div>
   </div>
 </div>
