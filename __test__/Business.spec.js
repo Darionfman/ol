@@ -10,5 +10,7 @@ test('Business renders', async () => {
     <Business />
   )
   let tree = component.toJSON()
+  //the business at id 0 is Yundt-Flatley
+  expect(tree.children[0].children[0]).toBe('Yundt-Flatley')
   expect(tree).toMatchSnapshot()
 })

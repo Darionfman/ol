@@ -9,7 +9,7 @@ const ListItem = ({business, props}) => (
       <bs.Col md={2}>
         Ol
       </bs.Col>
-      <bs.Col md={3}>
+      <bs.Col className='grey' md={3}>
         {business.name}
       </bs.Col>
     </Link>
@@ -18,7 +18,7 @@ const ListItem = ({business, props}) => (
         {business.website}
       </a>
     </bs.Col>
-    <bs.Col md={3}>
+    <bs.Col className='grey' md={3}>
       <a href={`tel:${business.phone}`}>
         {business.phone}
       </a>
