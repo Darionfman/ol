@@ -38,5 +38,4 @@ test('Directory renders with correct number of children with different page numb
   expect(list[12].props.className).toBe('col-md-12')
   //the second child of the child nodes should have a child containing text
   expect(typeof list[12].children[0].children[1].children[0]).toBe('string')
-  //checks to make sure it matches the recent snapshot
 })
