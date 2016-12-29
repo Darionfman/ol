@@ -24,6 +24,7 @@ class CollectionStore {
       this.previous = collection.data['pages']['prev'] || ''
       return this.store
     }))
+    .catch(error => console.log(error))
   }
   @action fetchPage(link){
     if(!link) throw new Error('No link was submitted')
@@ -34,6 +35,7 @@ class CollectionStore {
       this.previous = collection.data['pages']['prev'] || ''
       return this.store
     }))
+    .catch(error => console.log(error))
   }
   @action getBusiness(id){
     return axios.get(`http://ec2-54-84-251-148.compute-1.amazonaws.com/businesses/${id}`)
@@ -41,6 +43,7 @@ class CollectionStore {
       this.business = business.data
       return this.business
     }))
+    .catch(error => console.log(error))
   }
 
 }
